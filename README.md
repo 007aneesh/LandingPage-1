@@ -1,6 +1,6 @@
-# Shop-Box
+# Landing Page
 
-A react js shopping website which fetches the product data from the Fake Store API.
+A responsive react js Landing Page design showcasing my frontend development skills and creativity.
 
 ---
 
@@ -8,7 +8,6 @@ A react js shopping website which fetches the product data from the Fake Store A
 
 - [React js](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Instructions of running this website locally
 
