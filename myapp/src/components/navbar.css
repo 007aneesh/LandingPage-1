@@ -45,6 +45,9 @@ header .nav-btn{
         visibility: visible;
         opacity: 1;
     }
+    header .bars{
+        color:white;
+    }
     a{
         font-size: 1.5rem;
         font-weight: 500;

@@ -2,4 +2,24 @@
     background-image: url('./assets/hero.png');
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
+}
+@media only screen and (max-width: 1024px) {
+    .hero{
+        background-color: black;
+        background-image: none;
+    }
+}
+
+.blink_me {
+  animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+.sc::-webkit-scrollbar {
+    display: none;
 }
