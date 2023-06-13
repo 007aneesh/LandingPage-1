@@ -8,7 +8,7 @@ const Footer = () => {
           Team<span className="text-[#FFCA1D]">Flow</span>
         </h1>
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-5 md:ml-8 p-4 mb-8">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-5 md:ml-24 p-4 mb-8">
         <div>
           <h1 className="text-xl mb-2 font-semibold">Product</h1>
           <ul className="list-none opacity-70">
@@ -62,9 +62,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex items-center justify-center">
-        <p className="opacity-70 font-sans">
-          All Rights Reserved @Aneesh
-        </p>
+        <p className="opacity-70 font-sans">All Rights Reserved @Aneesh</p>
       </div>
     </div>
   );
